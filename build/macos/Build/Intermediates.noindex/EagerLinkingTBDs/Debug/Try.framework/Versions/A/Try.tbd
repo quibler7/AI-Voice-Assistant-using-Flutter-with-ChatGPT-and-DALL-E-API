@@ -1,0 +1,49 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s3Try21tryExceptionErrorCodeSivau",
+            "_$s3Try20tryExceptionErrorKeySSvp",
+            "_$s3Try4trapyyyycKF",
+            "_$s3Try14tryErrorDomainSSvp",
+            "_$s3Try20tryExceptionErrorKeySSvau",
+            "_TryVersionNumber",
+            "_$s3Try14tryErrorDomainSSvau",
+            "_$s3Try21tryExceptionErrorCodeSivp",
+            "_TryVersionString"
+          ],
+          "objc_class": [
+            "WBTry",
+            "PodsDummy_Try"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/Try.framework/Versions/A/Try"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "11",
+        "target": "arm64-macos"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

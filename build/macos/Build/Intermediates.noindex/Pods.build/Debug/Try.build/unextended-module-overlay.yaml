@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Products/Debug/Try/Try.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Products/Debug/Try/Try.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "Try-Swift.h",
+      'external-contents': "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/unextended-interface-header.h",
+    }]
+    }]
+}

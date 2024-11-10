@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/Objects-normal/arm64/Try-master.dia",
+    "emit-module-dependencies" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/Objects-normal/arm64/Try-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/Objects-normal/arm64/Try-master-emit-module.dia",
+    "swift-dependencies" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/Objects-normal/arm64/Try-master.swiftdeps"
+  },
+  "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/macos/Pods/Try/Try/trap.swift" : {
+    "const-values" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/Objects-normal/arm64/trap.swiftconstvalues",
+    "dependencies" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/Objects-normal/arm64/trap.d",
+    "diagnostics" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/Objects-normal/arm64/trap.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/Try.build/Objects-normal/arm64/trap.o",
+    "llvm-bc" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/Objects-normal/arm64/trap.bc",
+    "object" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/Objects-normal/arm64/trap.o",
+    "swift-dependencies" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/Objects-normal/arm64/trap.swiftdeps",
+    "swiftmodule" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/Try.build/Objects-normal/arm64/trap~partial.swiftmodule"
+  }
+}

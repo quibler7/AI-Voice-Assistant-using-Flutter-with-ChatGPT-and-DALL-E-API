@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/flutter_tts-master.dia",
+    "emit-module-dependencies" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/flutter_tts-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/flutter_tts-master-emit-module.dia",
+    "swift-dependencies" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/flutter_tts-master.swiftdeps"
+  },
+  "/Users/chaitanyjadhav/.pub-cache/hosted/pub.dev/flutter_tts-4.0.2/macos/Classes/FlutterTtsPlugin.swift" : {
+    "const-values" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/FlutterTtsPlugin.swiftconstvalues",
+    "dependencies" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/FlutterTtsPlugin.d",
+    "diagnostics" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/FlutterTtsPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/FlutterTtsPlugin.o",
+    "llvm-bc" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/FlutterTtsPlugin.bc",
+    "object" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/FlutterTtsPlugin.o",
+    "swift-dependencies" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/FlutterTtsPlugin.swiftdeps",
+    "swiftmodule" : "/Users/chaitanyjadhav/Desktop/ai_voice_assistant/build/macos/Build/Intermediates.noindex/Pods.build/Debug/flutter_tts.build/Objects-normal/arm64/FlutterTtsPlugin~partial.swiftmodule"
+  }
+}
