@@ -42,26 +42,34 @@ Key highlights of the project:
 
 1. **Clone the Repository**  
    Clone the repository to your local machine.
+   
    ```
    git clone https://github.com/quibler7/Flutter-ChatGPT-DALL-E-Assistant.git
    cd Flutter-ChatGPT-DALL-E-Assistant
    ```
-2. **Install Dependencies**
+   
+3. **Install Dependencies**
    Install the Flutter dependencies for the project.
    ```
    flutter pub get
    ```
-3. **Add Your OpenAI API Key**
+   
+4. **Add Your OpenAI API Key**
    - Open the `lib/secrets/secrets.dart` file and add your OpenAI API key:
    ```
    const openAPIKey = 'your_openai_api_key';
    ```
+   
    - Make sure to add the `secrets.dart` file to `.gitignore` to keep your key private and avoid accidentally pushing it to GitHub.
-4. Run the Application
+
+     
+5. Run the Application
    Run the app on your connected device or emulator.
+   
    ```
    flutter run
    ```
+
 ## Usage
 
 Start the App: Launch the app on your device (iOS or Android).
@@ -71,6 +79,7 @@ Image Generation: Type or speak a prompt to generate an image via DALL-E.
 ## Project Structure
 
 The project is structured as follows:
+
 ```
 lib
 ├── main.dart               # Entry point of the application
