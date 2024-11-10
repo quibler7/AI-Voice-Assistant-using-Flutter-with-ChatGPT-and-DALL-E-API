@@ -50,11 +50,12 @@ Key highlights of the project:
    
 3. **Install Dependencies**
    Install the Flutter dependencies for the project.
+   
    ```
    flutter pub get
    ```
    
-4. **Add Your OpenAI API Key**
+5. **Add Your OpenAI API Key**
    - Open the `lib/secrets/secrets.dart` file and add your OpenAI API key:
    ```
    const openAPIKey = 'your_openai_api_key';
@@ -63,7 +64,7 @@ Key highlights of the project:
    - Make sure to add the `secrets.dart` file to `.gitignore` to keep your key private and avoid accidentally pushing it to GitHub.
 
      
-5. Run the Application
+6. Run the Application
    Run the app on your connected device or emulator.
    
    ```
