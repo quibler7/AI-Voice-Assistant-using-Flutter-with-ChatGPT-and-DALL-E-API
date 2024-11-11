@@ -10,7 +10,6 @@ Welcome to **Flutter ChatGPT DALL-E Assistant**! This Flutter application integr
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
