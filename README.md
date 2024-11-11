@@ -110,6 +110,3 @@ Contributions are welcome! If you would like to improve the project, please foll
 3. Implement your changes and thoroughly test them.
 4. Open a pull request with a description of your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/quibler7/Flutter-ChatGPT-DALL-E-Assistant/blob/main/LICENSE) file for details.
